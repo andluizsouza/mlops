@@ -1,7 +1,6 @@
-mlops-alura
+# MLOps Alura
 ==============================
 
-test course
 
 Project Organization
 ------------
